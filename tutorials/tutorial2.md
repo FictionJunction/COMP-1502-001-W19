@@ -14,7 +14,7 @@ Now all of the files in the "remote" repository will be copied to your "local" r
 
 Once you have the tutorial respository checked out then you can edit it this file to say "I DID IT" below. (This is a job for emacs!)
 
-Type *I DID IT* here: 
+Type *I DID IT* here: I DID IT
 
 Finally check your code back in:
 
